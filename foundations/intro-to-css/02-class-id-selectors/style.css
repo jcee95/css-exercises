@@ -1,13 +1,17 @@
 .number-1 {
     background-color:pink;
-    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+    font-family: "sans-serif";
 }
 
 #number-2 {
-    color:blue;
+    color:hsl(241, 80%, 45%);
     font-size:36px;
 }
 
-.number-1.large {
+.large {
     font-size: 24px;
+}
+#number-4 {
+    background-color:rgb(123, 201, 123);
+    font-weight:bold;
 }
